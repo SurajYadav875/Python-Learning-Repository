@@ -1,0 +1,21 @@
+print("Hi,this is my first code in python")
+
+a=3
+b=3
+c=a*b
+print("total sum of a&b is \t",c)
+
+print("\t------------------------------------\n")
+print("\t......Welcome to the python world.....\n")
+print("\t------------------------------------\n")
+
+print("......\'Welcome\' to the python world.....")
+print("......Welcome to the \n python world.....\n")
+print("\t......Welcome to the python world.....\n")
+
+print("\b......Welcome to the python world.....\n")
+
+print("""your learning path: 
+      \n\t-Python basic 
+      \n\t-Data Engineering 
+      \n\t-ai""")
