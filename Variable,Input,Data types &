@@ -1,0 +1,92 @@
+-----Variable----
+print("My name is Suraj")
+print("Suraj is learning Python")
+print("Suraj want to become a python expert")
+
+name="cobra"
+
+print("My name is",name)
+print(name,"is learning Python")
+print(name,"want to become a python expert")
+
+Tool="SQL"
+Name="Suraj"
+
+print("my name is", Name)
+print (Name,"is learning",Tool)
+print(Name,"wants to becaome tools experts of ",Tool)
+
+#Challanges
+
+info="info@datawithbaraa.com"
+support="support@datawithbaraa.com"
+website="datawithbaraa.com"
+
+print('For Information of data go and check this website',website)
+print("for more info about python go and enquiry on this mail id ",info)
+print("any support related to course else doubts please reach out on this mail id",support)
+
+
+---Input----
+
+name=input("What is your name")
+country=input("In which country you lived?")
+print(name,"live in",country)
+
+name=input("What is your name")
+country= "India"
+print(name,"live in",country)
+
+----Data types----
+#data_types
+a=1 #int
+b=1.2 #float
+c="suraj" #String
+d=True #boolean
+e=False #Boolean
+f=None #none type
+g=""  #string blank
+h=" " #String empty space
+
+
+a=12344
+b="Suraj"
+print(a)
+print(b)
+
+print (type(a))
+print (type(b))
+
+#print (len(a))
+print (len(b))
+
+print (a.bit_length())
+print (b.upper())
+
+
+# Challenge
+
+age=27
+height=6.9
+name="Suraj"
+color=None
+print("my name is ",name,"and my age is ",age,"my height is ",height,"my color is ",color)
+
+print(type(age))
+print(type(height))
+print(type(name))
+print(type(color))
+
+---------------String_Function------------
+
+
+
+
+
+
+
+
+
+
+
+
